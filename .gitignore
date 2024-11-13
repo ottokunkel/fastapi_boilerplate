@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+
+# VS Code 
+.DS_Store
+
+# environment
+.env
+.venv/
+credentials.json
+token.json
+
+
+# logging
+*.log
+
+
